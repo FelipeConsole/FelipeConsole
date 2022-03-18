@@ -5,4 +5,4 @@
 Physicist. With some knowledge of Gravity, General Relativity, and this kind of things.
 Interested in a bunch of uncorrelated and correlated stuff.
 
-Studying Machine Learning (or statistics ?), deep learning, and all of this hype.
+Studying Machine Learning, deep learning, and all of this hype.
